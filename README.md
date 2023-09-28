@@ -10,7 +10,7 @@ I'm interested in full stack development, contributing to open source projects a
 <br />
 🔭 I’m currently working on [Realtime Chart Development web Application using ReactJS and ChartJS](https://github.com/Jai-Marothiya/Funcky-Charts)
 <br />
-💬 Ask me about React, JavaScript, Tailwind CSS, Python, C++, C, PHP and SQL
+💬 Ask me about React, JavaScript, Tailwind CSS, Python, C++, C, OOPS, and SQL
 <br />
 📫 How to reach me: jaimarothiya@gmail.com
 <br />
