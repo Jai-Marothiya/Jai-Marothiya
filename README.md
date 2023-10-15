@@ -16,3 +16,13 @@ I'm interested in full stack development, contributing to open source projects a
 <br />
 ⚡ Fun fact: Ctrl C, Ctrl V, Ctrl Z saved more lives than Batman :smile:
 <br />
+
+### 📈📊 Stats
+<p >
+  <img align="" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jai-Marothiya&theme=radical" />
+   <img align="" src="https://github-readme-streak-stats.herokuapp.com?user=Jai-Marothiya&theme=tokyonight" />
+</p>
+
+<p>
+  <img align ="" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Jai-Marothiya&layout=compact&theme=radical"/>
+</p>
