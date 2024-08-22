@@ -8,7 +8,7 @@ I'm interested in full stack development, contributing to open source projects a
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <br />
 <br />
-🔭 I’m currently working on [Realtime Chat Application using ReactJS, ExpressJS, CometChat and Chakra-UI](https://github.com/Jai-Marothiya/live-chat)
+🔭 I’m currently working on [AlgoHunt a paltform with more than 150 DSA problems using ReactJS, ExpressJS, PostgreSQL, and MUI](https://github.com/Jai-Marothiya/algohub)
 <br />
 💬 Ask me about React, JavaScript, NodeJS, Material-UI, ExpressJS, MongoDB, Tailwind CSS, Python, C++, C, OOPS, and SQL
 <br />
