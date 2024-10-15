@@ -17,6 +17,9 @@ I'm interested in full stack development, contributing to open source projects a
 ⚡ Fun fact: Ctrl C, Ctrl V, Ctrl Z saved more lives than Batman :smile:
 <br />
 
+### Badges
+[![@09jai's Holopin board](https://holopin.me/@09jai)](https://www.holopin.io/@09jai)
+
 ### 📈📊 Stats
 <p >
   <img align="" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jai-Marothiya&theme=radical" />
